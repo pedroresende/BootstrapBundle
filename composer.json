@@ -6,7 +6,7 @@
     "type" : "symfony-bundle",
     "authors" : [{
         "name" : "Pedro Resende",
-        "email" : "pedro.m.m.resnde@gmail.com"
+        "email" : "pedro.m.m.resende@gmail.com"
     }],
     "keywords" : [
         "Twitter Bootstrap 3 Symfony2"
