@@ -1,0 +1,26 @@
+{
+    "name" : "bootstrapbundle",
+    "description" : "Twitter Bootstrap for Symfony2",
+    "keywords": [ "Twitter Bootstrap3", "Bootstrap3", "symfony2", "bundle"],
+    "homepage": "http://github.com/pedroresende/BootstrapBundle",
+    "type" : "symfony-bundle",
+    "authors" : [{
+        "name" : "Pedro Resende",
+        "email" : "pedro.m.m.resnde@gmail.com"
+    }],
+    "keywords" : [
+        "Twitter Bootstrap 3 Symfony2"
+    ],
+    "license" : [
+        "MIT"
+    ],
+    "require" : {
+        "php":                      ">=5.3.3"
+    },
+    "autoload" : {
+        "psr-0" : {
+            "Theme\\BootstrapBundle" : ""
+        }
+    },
+    "target-dir" : "BootstrapBundle"  
+}
