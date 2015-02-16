@@ -1,0 +1,10 @@
+bundles:
+    - BootstrapBundle
+
+assets:
+    bootstrap_js:
+        inputs:
+            - '@BootstrapBundle/Resources/public/js/bootstrap.min.js'
+    bootstrap_css:
+        inputs:
+            - '@BootstrapBundle/Resources/public/css/bootstrap.min.css'
