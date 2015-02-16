@@ -1,6 +1,6 @@
 <?php
 
-namespace BootstrapBundle;
+namespace PedroResende\BootstrapBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

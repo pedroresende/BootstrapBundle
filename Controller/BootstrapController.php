@@ -1,6 +1,6 @@
 <?php
 
-namespace BootstrapBundle\Controller;
+namespace PedroResende\BootstrapBundle\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Symfony\Component\Security\Core\Exception\AccessDeniedException;
