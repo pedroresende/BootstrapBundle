@@ -1,5 +1,5 @@
 {
-    "name" : "bootstrapbundle",
+    "name" : "pedroresende/bootstrapbundle",
     "description" : "Twitter Bootstrap for Symfony2",
     "keywords": [ "Twitter Bootstrap3", "Bootstrap3", "symfony2", "bundle"],
     "homepage": "http://github.com/pedroresende/BootstrapBundle",
