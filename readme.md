@@ -5,7 +5,7 @@
 To install this bundle, please run
 
 ````
-$ composer require "pedroresende/bootstrapbundle": "3.2.2"
+$ composer require "pedroresende/bootstrapbundle"
 ````
 
 Then run
