@@ -25,7 +25,7 @@ Finally to routing.yml file
 ````
 bootstrap_public:
     resource: "@BootstrapBundle/Resources/config/routing.yml"
-    prefix:   /
+    prefix:   /bootstrap_bundle
 ````
 
 Install assets
