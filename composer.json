@@ -1,19 +1,17 @@
 {
-    "name" : "pedroresende/bootstrapbundle",
-    "description" : "Twitter Bootstrap for Symfony2",
-    "keywords": [ "Twitter Bootstrap3", "Bootstrap3", "symfony2", "bundle"],
-    "homepage": "http://github.com/pedroresende/BootstrapBundle",
-    "type" : "symfony-bundle",
-    "authors" : [{
-        "name" : "Pedro Resende",
-        "email" : "pedro.m.m.resende@gmail.com"
-    }],
+    "name": "pedroresende/bootstrapbundle",
+    "description": "Twitter Boostrap for Symfony 2",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pedro Resende",
+            "email": "pedroresende@mail.resende.biz"
+        }
+    ],
     "keywords" : [
         "Twitter Bootstrap 3 Symfony2"
     ],
-    "license" : [
-        "MIT"
-    ],
+    "minimum-stability": "dev",
     "require" : {
         "php":                      ">=5.3.3"
     },
@@ -22,5 +20,5 @@
             "PedroResende\\BootstrapBundle" : ""
         }
     },
-    "target-dir" : "BootstrapBundle"  
+    "target-dir" : "PedroResende/BootstrapBundle"  
 }
