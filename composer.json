@@ -11,7 +11,7 @@
     "keywords" : [
         "Twitter Bootstrap 3 Symfony2"
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require" : {
         "php":                      ">=5.3.3"
     },
